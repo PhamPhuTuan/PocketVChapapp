@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278640612761",
+    "firebase_url": "https://pocket-v-7be9e-default-rtdb.firebaseio.com",
+    "project_id": "pocket-v-7be9e",
+    "storage_bucket": "pocket-v-7be9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278640612761:android:8070e891ed746ad6e12f08",
+        "android_client_info": {
+          "package_name": "dvt.chap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278640612761-4f830peml6jgg3q85puhd17hadhm4d5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7l-jBZiraBV8YGFWQKWlGiwCb_EdgewI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278640612761-4f830peml6jgg3q85puhd17hadhm4d5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
